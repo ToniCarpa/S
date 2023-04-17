@@ -1,0 +1,12 @@
+ - Cambiar Dbname por real en la CONSTANTE para jbc
+ - Igualar nombres y tipos de datos entre java y la bd (Script)
+ - Metodo likes -> dao -> service
+ - Metodo Image -> []byte
+ - ids ints
+ - servlets Get no info POST enviar info al next serv
+ - arreglo de session.get atributo
+ - objetos vacios llamados en null pointer
+ - Nuevas instacias de usuario y post sin setear los parametros con el resulset
+ - modificaciones de nuevos objetos string para los parametros con los charsets para los acentos
+ - Boton likes, delete, crear...
+ - igualación servlet con jsp en parametros
